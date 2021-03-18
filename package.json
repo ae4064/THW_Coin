@@ -1,5 +1,5 @@
 {
-  "name": "javacode_1",
+  "name": "thwcoin-jscode",
   "version": "1.0.0",
   "description": "Blockchaintechnologie erklärt anhand eines Kryptowährungsprototypen.",
   "main": "code/blockchain.js",
